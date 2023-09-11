@@ -1,0 +1,18 @@
+# flyctl launch added from .gitignore
+**\__pycache__
+**\venv
+**\.tox
+**\.coverage
+
+# flyctl launch added from .tox\flake8\.gitignore
+# created by virtualenv automatically
+.tox\flake8\**\*
+
+# flyctl launch added from .tox\test\.gitignore
+# created by virtualenv automatically
+.tox\test\**\*
+
+# flyctl launch added from .tox\test\.pytest_cache\.gitignore
+# Created by pytest automatically.
+.tox\test\.pytest_cache\**\*
+fly.toml
